@@ -12,8 +12,8 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       )}
       {...props}
     >
-      FinBot may provide inaccurate information and does not provide
-      investment advice.
+      NextBot may provide inaccurate information and does not provide investment
+      advice.
     </p>
   )
 }

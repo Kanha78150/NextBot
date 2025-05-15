@@ -13,8 +13,8 @@ export const metadata = {
     ? new URL(`https://${process.env.VERCEL_URL}`)
     : undefined,
   title: {
-    default: 'FinBot powered by Groq',
-    template: `%s - FinBot powered by Groq`
+    default: 'NextBot powered by Groq',
+    template: `%s - NextBot powered by Groq`
   },
   description:
     'Lightning Fast AI Chatbot that Responds With Live Interactive Stock Charts, Financials, News, Screeners, and More.',
